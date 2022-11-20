@@ -8,5 +8,5 @@
 
 
 ### License
-#### [https://github.com/Evgenkaz/Innopolis_cp/blob/main/LICENSE)
+#### [MIT license][https://github.com/Evgenkaz/Innopolis_cp/blob/main/LICENSE)
 
